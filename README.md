@@ -2,7 +2,7 @@
 
 ## Identitas Mahasiswa
 
-- Nama: Maulana Jaya Kusuma Atmaja
+- Nama: Maulana JayaKusuma Atmaja
 - NIM: 2405101060
 - Kelas: 5D
 - Program Studi: Teknik Informatika
